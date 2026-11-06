@@ -1,7 +1,7 @@
 # Terraform Proxmox VE — Déploiement automatisé de machines virtuelles Ubuntu
 
 <p align="center">
-  **Infrastructure as Code (IaC) avec Terraform, Proxmox VE et Cloud-Init**
+    <strong>Infrastructure as Code (IaC) avec Terraform, Proxmox VE et Cloud-Init</strong>
 </p>
 
 <p align="center">
@@ -293,13 +293,7 @@ Le projet est documenté à travers 28 sections chronologiques. Chaque document 
 | 27 | [Sécurisation des variables d'environnement et du fichier .env](docs/27-securisation-variables-environnement-fichier-env.md) |
 | 28 | [Publication du projet Terraform-Proxmox sur GitHub](docs/28-publication-projet-terraform-proxmox-github.md) |
 
-## 11. Dépôt GitHub
-
-Le code source et la documentation technique sont hébergés sur GitHub.
-
-**Dépôt du projet :** [https://github.com/kaman2803/terraform-proxmox](https://github.com/kaman2803/terraform-proxmox)
-
-## 12. État d'avancement du projet
+## 11. État d'avancement du projet
 
 Le déploiement initial de l'infrastructure a été réalisé et validé.
 
@@ -313,7 +307,7 @@ Le déploiement initial de l'infrastructure a été réalisé et validé.
 
 Les documents techniques détaillent chronologiquement les manipulations et les résultats de validation.
 
-## 13. Auteur
+## 12. Auteur
 
 **Kaman Goumou**
 
