@@ -1,0 +1,12 @@
+# Secrets locaux
+.env
+
+# Fichiers Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+crash.log
+# Images système et fichiers volumineux
+images/
