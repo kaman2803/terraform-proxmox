@@ -320,5 +320,5 @@ GitHub : [@kaman2803](https://github.com/kaman2803)
 ---
 
 <p align="center">
-  **Infrastructure as Code — Automatiser. Déployer. Valider. Documenter.**
+  <strong>Infrastructure as Code — Automatiser. Déployer. Valider. Documenter.</strong>
 </p>
